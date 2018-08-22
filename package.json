@@ -1,0 +1,15 @@
+{
+  "name": "rest_api_nodejs_restify_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^7.2.1",
+    "validator": "^10.6.0"
+  }
+}
